@@ -10,5 +10,17 @@ public class Main{
         arvore.inserir(16);
         arvore.inserir(2);
 
+        arvore.remover(32);
+        arvore.remover(48);
+
+
+
+   
+        arvore.exibir(8);
+
+    
+
+
+
     }
 }
